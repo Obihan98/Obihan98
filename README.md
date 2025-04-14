@@ -8,8 +8,7 @@ Explore my projects below.
 <div style="display: flex; justify-content: space-between; gap: 2%;">
 
   <div style="flex: 1;">
-    <h3><a href="https://apps.shopify.com/dyno-bulk-discount-code-generator" target="_blank">Dyno: Bulk Discount Codes</a></h3>
-    <a href="https://youtu.be/RvN9cC4cx5k" target="_blank">Screencast</a>
+    <h3><a href="https://apps.shopify.com/dyno-bulk-discount-code-generator" target="_blank">Dyno: Bulk Discount Codes </a></h3> <a href="https://youtu.be/RvN9cC4cx5k" target="_blank">Screencast</a>
     <ul>
       <li>Generated 2,000+ discount codes/min via Redis queueing.</li>
       <li>Implemented resilient retry logic with exponential backoff.</li>
