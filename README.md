@@ -1,5 +1,3 @@
-<!-- README.md -->
-
 # Welcome to My GitHub
 
 Explore my projects below.  
@@ -8,7 +6,10 @@ Explore my projects below.
 <div style="display: flex; justify-content: space-between; gap: 2%;">
 
   <div style="flex: 1;">
-    <h3><a href="https://apps.shopify.com/dyno-bulk-discount-code-generator" target="_blank">Dyno: Bulk Discount Codes </a></h3> <span><a href="https://youtu.be/RvN9cC4cx5k" target="_blank">Screencast</a></span>
+    <h3>
+      <a href="https://apps.shopify.com/dyno-bulk-discount-code-generator" target="_blank">Dyno: Bulk Discount Codes</a>
+    </h3>
+    <p><a href="https://youtu.be/RvN9cC4cx5k" target="_blank">▶ Watch Screencast</a></p>
     <ul>
       <li>Generated 2,000+ discount codes/min via Redis queueing.</li>
       <li>Implemented resilient retry logic with exponential backoff.</li>
@@ -19,7 +20,9 @@ Explore my projects below.
   </div>
 
   <div style="flex: 1;">
-    <h3><a href="https://apps.shopify.com/decimal-percentage-discounts" target="_blank">Numo: Decimal Discounts</a></h3>
+    <h3>
+      <a href="https://apps.shopify.com/decimal-percentage-discounts" target="_blank">Numo: Decimal Discounts</a>
+    </h3>
     <ul>
       <li>Enabled precise decimal-based percentage discounts.</li>
       <li>Bypassed Shopify’s rounding limitations.</li>
@@ -29,7 +32,9 @@ Explore my projects below.
   </div>
 
   <div style="flex: 1;">
-    <h3><a href="https://apps.shopify.com/splinter-order-split" target="_blank">Divy: Auto Split Orders</a></h3>
+    <h3>
+      <a href="https://apps.shopify.com/splinter-order-split" target="_blank">Divy: Auto Split Orders</a>
+    </h3>
     <ul>
       <li>Auto-split orders based on product-specific logic.</li>
       <li>Streamlined fulfillment for multi-vendor workflows.</li>
