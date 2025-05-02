@@ -34,7 +34,6 @@ Explore my projects below.
     <h3>
       <a href="https://apps.shopify.com/splinter-order-split" target="_blank">Divy: Auto Split Orders</a>
     </h3>
-    <p><a href="https://youtu.be/RvN9cC4cx5k" target="_blank">▶ Watch Screencast</a></p>
     <ul>
       <li>Auto-split orders based on product-specific logic.</li>
       <li>Streamlined fulfillment for multi-vendor workflows.</li>
