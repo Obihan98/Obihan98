@@ -1,45 +1,39 @@
-# Welcome to My GitHub
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:16213E,50:1F4E79,100:D1495B&text=Orhan%20Ozbasaran&fontColor=F2B134&fontSize=54&fontAlignY=38&desc=Software%20Engineer&descAlignY=60&descSize=20&animation=twinkling" width="100%" alt="Orhan Ozbasaran" />
+</p>
 
-Explore my projects below.  
-> _Note: These are private repositories as they contain intellectual property currently powering my monetized projects._
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=24&duration=2800&pause=1200&color=F2B134&center=true&vCenter=true&width=600&lines=Platform+Engineering;Agentic+AI+%2B+MCP;Full-Stack+Builder;Solo+Founder" alt="Typing SVG" />
+</p>
 
-<div style="display: flex; justify-content: space-between; gap: 2%;">
+<p align="center">
+  <a href="https://linkedin.com/in/orhanozbasaran"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:orhan.ozbasaran@gmail.com"><img src="https://img.shields.io/badge/Email-D1495B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Obihan98&style=for-the-badge&color=F2B134&label=VIEWS" alt="Profile views" />
+</p>
 
-  <div style="flex: 1;">
-    <h3>
-      <a href="https://apps.shopify.com/dyno-bulk-discount-code-generator" target="_blank">Dyno: Bulk Discount Codes</a>
-    </h3>
-    <ul>
-      <li>Generated 2,000+ discount codes/min via Redis queueing.</li>
-      <li>Implemented resilient retry logic with exponential backoff.</li>
-      <li>Handled 2,500+ requests/sec with optimized PostgreSQL.</li>
-      <li>Generated & stored reports using Amazon S3.</li>
-    </ul>
-    <strong>Tech Stack:</strong> Node.js, React Remix, Polaris UI, Bootstrap, Redis, PostgreSQL (Amazon RDS), Amazon S3, Shopify API
-  </div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,py,fastapi,ts,react,remix,nodejs,kafka,redis,postgres,aws,docker&theme=light&perline=13" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,ts,react,remix,nodejs,kafka,redis,postgres,aws,docker&theme=dark&perline=13" alt="Skills" />
+  </picture>
+</p>
 
-  <div style="flex: 1;">
-    <h3>
-      <a href="https://apps.shopify.com/decimal-percentage-discounts" target="_blank">Numo: Decimal Discounts</a>
-    </h3>
-    <ul>
-      <li>Enabled precise decimal-based percentage discounts.</li>
-      <li>Bypassed Shopify’s rounding limitations.</li>
-      <li>Maintained pricing accuracy across storefronts.</li>
-    </ul>
-    <strong>Tech Stack:</strong> Node.js, React Remix, Polaris UI, Bootstrap, PostgreSQL (Amazon RDS), Shopify API
-  </div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Obihan98&show_icons=true&hide_border=true&hide_title=true&rank_icon=github&bg_color=00000000&icon_color=D1495B&text_color=16213E&ring_color=F2B134" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Obihan98&show_icons=true&hide_border=true&hide_title=true&rank_icon=github&bg_color=00000000&icon_color=D1495B&text_color=C9D1D9&ring_color=F2B134" alt="Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Obihan98&hide_border=true&background=00000000&ring=F2B134&fire=D1495B&currStreakNum=16213E&sideNums=16213E&currStreakLabel=16213E&sideLabels=57606A&dates=57606A&stroke=D0D7DE" />
+    <img height="150" src="https://streak-stats.demolab.com?user=Obihan98&hide_border=true&background=00000000&ring=F2B134&fire=D1495B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F2B134&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="Streak" />
+  </picture>
+</p>
 
-  <div style="flex: 1;">
-    <h3>
-      <a href="https://apps.shopify.com/splinter-order-split" target="_blank">Divy: Auto Split Orders</a>
-    </h3>
-    <ul>
-      <li>Auto-split orders based on product-specific logic.</li>
-      <li>Streamlined fulfillment for multi-vendor workflows.</li>
-      <li>Processed orders in real time via webhooks.</li>
-    </ul>
-    <strong>Tech Stack:</strong> Node.js, React Remix, Polaris UI, Bootstrap, Redis, PostgreSQL (Amazon RDS), Shopify API
-  </div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Obihan98&bg_color=00000000&color=8B949E&line=F2B134&point=D1495B&area=true&area_color=F2B134&hide_border=true&hide_title=true" width="100%" alt="Activity graph" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:D1495B,50:1F4E79,100:16213E&section=footer" width="100%" alt="" />
+</p>
